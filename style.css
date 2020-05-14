@@ -1,0 +1,58 @@
+body {
+	 background-color:blue;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	
+}
+.uvod {background-color: #66a3ff;
+	   opacity:0.9;
+	   border: solid 4px white;
+}
+.naslov {font-size: 40px;
+		font-family: arial;
+		padding-left: 30px;
+		padding-top: 30px;
+		text-shadow: 2px 2px red;
+		letter-spacing: 3px;
+}
+.ikona {float:right;
+		border-radius: 7px;
+}
+.opis {padding-left: 15px;
+	   padding-bottom: 10px;
+}
+.topnav {
+	background-color: #66a3ff;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	color:  #000000;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	fot-size: 17px;
+	border: solid 4px white;
+}
+.topnav a:hover{
+	background-color: black;
+	color: #66a3ff;	
+}
+.tpnav a:active{
+	background-color: white;
+	color: #66a3ff;
+}
+.lista{color:white}
+
+.sajt {
+	 background-color: #66a3ff; 
+	 padding: 40px;
+	 margin-top: 10px;
+	 margin-left: 85%;
+}
+.podaci {
+	 background-color: white;
+}
+
